@@ -1,0 +1,11 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 5018-932E
+
+ Directory of C:\Users\srikant12010\Desktop\git
+
+12/Aug/20  06:11 AM    <DIR>          .
+12/Aug/20  06:11 AM    <DIR>          ..
+12/Aug/20  06:11 AM                 0 test1.txt
+12/Aug/20  06:10 AM                 0 text.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  21,445,451,776 bytes free
